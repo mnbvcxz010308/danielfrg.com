@@ -1,21 +1,3 @@
-# danielfrg.com
+# blog.vipings.com
 
-Source for [danielfrg.com](https://danielfrg.com)
-
-Convert notebooks to md:
-
-```
-make notebooks
-```
-
-Generate site:
-
-```
-make
-```
-
-or 
-
-```
-make serve
-```
+Source for [blog.vipings.com](https://blog.vipings.com)
