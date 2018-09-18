@@ -1,13 +1,19 @@
 ---
-title: My iOS workflow for static blogs
-slug: thoughts-dota-openai-five
-date: 2018-09-18T17:12:00Z
-tags: ["Blogging", "iOS"]
-author: Vipin G S
+title: "Talk @ AnacondaCON 2018: Deploying Python and R to Spark"
+slug: anacondacon-deploying-python-r-to-spark
+date: 2017-04-17
+tags: ["Talk", "Python", "R", "Spark", "Hadoop"]
+author: Daniel Rodriguez
 ---
 
-I am more comfortable in writing when I use laptops. But sometimes, I am eager to write but there won't be no laptop available. I found out it would be easy if I can write from my iPhone. There is a way !
+Watch me give a talk at our annual Anaconda conference about the work we are doing
+to make data scientist deploy Python and R easier inside Anaconda Enterprise 5.
 
+{{< youtube vmd7L-FAhus >}}
 
+Official abstract:
 
+> Anaconda Enterprise provides an easy yet powerful architecture that allows people to connect from interactive sessions and deployments to running Spark clusters from Python and R.  We will take a look at the Anaconda Enterprise 5 architecture for connecting to Hadoop/Spark clusters powered by Sparkmagic and Apache Livy (incubating), while taking a look at the benefits of this architecture and how it allows users to securely and easily connect to remote Hadoop/Spark clusters. We also will look at how Anaconda Enterprise enables users to do runtime distribution of custom Anaconda installers using Cloudera Parcels and Ambari Management Packs, allowing data scientists to ship Anaconda environments and leverage libraries from Anaconda.
 
+Let me know if you liked the show and what can we do better next year!
+Including new topics you want us to present.
