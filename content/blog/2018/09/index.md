@@ -11,7 +11,7 @@ This blog is a static website built with Hugo. This means that after writing a p
 My workflow until September was pretty simple:
 
 1. write content (in BBEdit or Coda 2)
-1. 1build website locally
+1. build website locally
 1. commit to GitHub
 1. upload the generated _site directory to Surge
 
