@@ -17,10 +17,10 @@ My workflow until September was pretty simple:
 
 I had to migrate this workflow to iOS.
 
-### 1. WRITING CONTENT
+#### 1. WRITING CONTENT
 There are many capable Markdown editors for iOS, almost too many to mention. When writing posts on iOS, I’ve settled on the excellent Drafts app from Agile Tortoise.  
 
-As an added advantage, [Drafts](https://itunes.apple.com/us/app/drafts-5-capture-act/id1236254471?mt=8) supports the TextExpander keyboard. I consider this essential as I have many blog post expansions in TextExpander, such a Jekyll’s YAML front matter. For example, the front matter for this post is as follows:  
+As an added advantage, [Drafts](https://itunes.apple.com/us/app/drafts-5-capture-act/id1236254471?mt=8) supports the [TextExpander](https://itunes.apple.com/us/app/textexpander-keyboard/id1075927186?mt=8) keyboard. I consider this essential as I have many blog post expansions in TextExpander, such a Jekyll’s YAML front matter. For example, the front matter for this post is as follows:  
 
 ---
 	
@@ -35,17 +35,17 @@ As an added advantage, [Drafts](https://itunes.apple.com/us/app/drafts-5-capture
 	#link: 
     
 ---  
-### 2. BUILDING THE WEBSITE
+#### 2. BUILDING THE WEBSITE
 On macOS it’s possible to build the website locally, via Terminal, as Jekyll can be installed. On iOS this isn’t possible. My approach to this problem: remove this step from the workflow.
 
 When I tried to solve this problem initially, the question I was trying to answer was how do I continue to do this? Over time, that changed to do I need to do this? The answer is no.
 
-### 3. COMMITTING TO GITHUB
+#### 3. COMMITTING TO GITHUB
 My solution for committing to GitHub was to start using Working Copy which allows me to manage the website’s GitHub repository.
 
 So now, after a post is written in Drafts, I copy the content to a new file in the _posts directory in the website’s GitHub repository using Working Copy, commit and push the changes.  
 
-### 4. UPLOADING _SITE
+#### 4. UPLOADING _SITE
 Instead of using Surge to host my site, I now use Netlify. Netlify monitors changes to the website’s GitHub repository and when a change is made they do the rest, in their own words. In short, Netlify:
 	checks out the repository
 	builds the site using the command I’ve provided: bundle exec jekyll build
