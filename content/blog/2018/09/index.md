@@ -14,14 +14,16 @@ My workflow until September was pretty simple:
 1. 1build website locally
 1. commit to GitHub
 1. upload the generated _site directory to Surge
+
 I had to migrate this workflow to iOS.
+
 ### 1. WRITING CONTENT
 There are many capable Markdown editors for iOS, almost too many to mention. When writing posts on iOS, I’ve settled on the excellent Drafts app from Agile Tortoise.  
 
-As an added advantage, Drafts supports the TextExpander keyboard. I consider this essential as I have many blog post expansions in TextExpander, such a Jekyll’s YAML front matter. For example, the front matter for this post is as follows:  
+As an added advantage, [Drafts](https://itunes.apple.com/us/app/drafts-5-capture-act/id1236254471?mt=8) supports the TextExpander keyboard. I consider this essential as I have many blog post expansions in TextExpander, such a Jekyll’s YAML front matter. For example, the front matter for this post is as follows:  
 
 ---
-	```
+	
 	layout: post
 	title: My Static Website Workflow on iOS
 	excerpt: “How I migrated my static website workflow from macOS to iOS."
@@ -31,7 +33,7 @@ As an added advantage, Drafts supports the TextExpander keyboard. I consider thi
 	identifier: CC6E9F6D-2A90-4434-A9CF-CBE9F0602C47
 	#image:
 	#link: 
-    ```
+    
 ---  
 ### 2. BUILDING THE WEBSITE
 On macOS it’s possible to build the website locally, via Terminal, as Jekyll can be installed. On iOS this isn’t possible. My approach to this problem: remove this step from the workflow.
