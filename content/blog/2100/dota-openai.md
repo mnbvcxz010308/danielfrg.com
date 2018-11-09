@@ -3,7 +3,7 @@ title: My thoughts on Dota OpenAI Five
 slug: thoughts-dota-openai-five
 date: 2018-08-14T17:12:00Z
 tags: ["Dota", "Open AI"]
-author: Daniel Rodriguez
+author: Vipin G S
 ---
 
 Very few times I have been more excited about a AI/ML thing/event/paper/whatever as I was about the recent [OpenAI Five benchmark](https://blog.openai.com/openai-five-benchmark/) vs a team of Dota Casters/Pro Players/Ex Pro players. 
