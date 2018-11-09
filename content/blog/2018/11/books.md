@@ -6,7 +6,7 @@ tags: ["Books",]
 author: Vipin G S
 ---
 
-These are the some of the books I read in 2018. 
+These are some of the books I read in 2018. 
 
 1. Sidhartha - Hermann Hesse
 2. The Stranger - Albert Camus
