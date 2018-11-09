@@ -1,7 +1,7 @@
 ---
 title: Books I read. 
 slug: books-read-and-i-love-ir
-date: 2018-11-9-11:12:00Z
+date: 2018-11-09
 tags: ["Books",]
 author: Vipin G S
 ---
