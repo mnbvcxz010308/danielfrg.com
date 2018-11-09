@@ -1,5 +1,5 @@
 ---
-title: 3 Books You Should Read in 2018. 
+title: 3 Books You Should Read in 2018
 slug: books-read-and-i-love
 date: 2018-11-09
 tags: ["Books",]
