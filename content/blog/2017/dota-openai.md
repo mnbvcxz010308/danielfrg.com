@@ -1,7 +1,7 @@
 ---
 title: My thoughts on Dota OpenAI Five
 slug: thoughts-dota-openai-five
-date: 2018-08-14T17:12:00Z
+date: 2017-08-14T17:12:00Z
 tags: ["Dota", "Open AI"]
 author: Vipin G S
 ---
