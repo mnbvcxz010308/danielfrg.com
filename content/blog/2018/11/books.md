@@ -13,4 +13,4 @@ These are some of the books I read in 2018.
 3. Phantoms in the brain - V S Ramachandran
 4. Animal Farm - George Orwell
 5. Francis Itty Cora - V D Ramakrishnan 
-6. The Trail - Kafka
+6. The Trail - 
